@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+
+  "employee":[
+    {
+      "firstname":"chitu",
+      "lastname":"palanivel",
+      "empid":"102",
+      "designaton":"java dev",
+      "payrate":"25000",
+      "address":"flat no:2"
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+
+}
